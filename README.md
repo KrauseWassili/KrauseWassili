@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Wassili
 
-<!--
-**KrauseWassili/KrauseWassili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer with 10+ years experience in systems
+engineering, industrial automation and modern web & mobile apps.
 
-Here are some ideas to get you started:
+## 🚀 Focus
+- Full-Stack Web (React, Next.js, TypeScript)
+- Mobile (Flutter)
+- Architecture & End-to-End ownership
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Project
+**flitein** — minimal precision tools page.  
+GitHub: https://github.com/KrauseWassili/flitein
+
+## 📫 Connect
+LinkedIn: [https://linkedin.com/in/… ](https://www.linkedin.com/in/wassili-krause/) 
+Email: wassili-krause@web.de
